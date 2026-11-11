@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=4G module.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=4G module.SchDoc|FileName=IMU.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=4G module.SchDoc|FileName=MCU.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=4G module.SchDoc|FileName=Momory.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=4G module.SchDoc|FileName=Power.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=4G module.SchDoc|FileName=RS485.SchDoc|SheetNumber=6
